@@ -1,3 +1,3 @@
 Handwritten Number Recognition
 
-Refer file README.pdf
+Refer README.pdf
